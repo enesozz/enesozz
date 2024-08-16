@@ -1,26 +1,13 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Software, software testing, data; I work on database, computing.
+<h1 align="center">Hi 👋, I'm Enes</h1>
+<h3 align="center">A developer</h3>
 
-C#, /mql5, Html5+, JavaScript, PHP, css, Python softwares. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzafferkaya&label=Profile%20views&color=0e75b6&style=flat" alt="enesoksuz" /> </p>
 
-I also have a lot of work on WordPress.
-Database; I have knowledge of SQLServer, MySQL,  management and design. 
-Big Data, Data Science, I'm Learning
+- 🌱 I’m currently learning **.NET **
 
-I love learning, math, literature and software. 
-"En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I am the author of his books. Mathematics is a part of life, I believe Literature is a culture. I am also a blogger, magazine and newspaper writer.
+- 📫 How to reach me **enesoksuzdm@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enesozz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesozz" height="30" width="40" /></a>
-<a href="https://instagram.com/mustenesoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesozz" height="30" width="40" /></a>
-</p>sss
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-- 🔭 I am currently working in every field, trying to improve myself
-- 🌱 I am currently learning forex analysis, deep learning and mvc
-- 🤔 youtube: [EnesOzYoutube](https://www.youtube.com/channel/UCUQ9Bn9RR0Ban7368dN_CMQ)
-- 📫 Forex Free Signal: [CodeHelps](https://discord.gg/7uZ5B7nn4F)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesozz&show_icons=true&locale=tr&layout=compact" alt="enesozz" /></p>
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=enesozz&show_icons=true&theme=gradient)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzafferkaya&show_icons=true&locale=en&layout=compact" alt="muzafferkaya" /></p>
