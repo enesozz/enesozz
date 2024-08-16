@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzafferkaya&label=Profile%20views&color=0e75b6&style=flat" alt="enesozz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesozz&label=Profile%20views&color=0e75b6&style=flat" alt="enesozz" /> </p>
 
 - 🌱 I’m currently learning **.NET **
 
