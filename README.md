@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes Öksüz</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **.net MAUİ and c#**
+- 🔭 I’m currently working on **.net MAUİ c# cisco**
 
-- 🌱 I’m currently learning **Python,C#,MAUİ**
+- 🌱 I’m currently learning **Python,C#,MAUİ,Cisco**
 
 - 👨‍💻 All of my projects are available at [https://github.com/enesozz](https://github.com/enesozz)
 
