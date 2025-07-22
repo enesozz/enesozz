@@ -237,6 +237,3 @@ nVIDIA® GeForce® RTX2060 Max-Performance 6GB GDDR6 192-Bit DX12
 
 ### SSD
 1TB SAMSUNG PM9A1 M.2 SSD PCIe 4.0 x4 (Okuma: 7000 MB/s - Yazma: 5200 MB/s)
-
-</div>
-<img src="http://www.fubiz.net/wp-content/uploads/2017/03/cityillustrationsdigital6.jpg" alt="Image from fubiz.net" />
