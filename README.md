@@ -91,11 +91,6 @@ const oksuz = {
 ***Bölümüm Bilgisayar Mühendisliği olmasada ideallerimden asla vazgeçmeden çabalamaya devam edeceğim.:medal_military:***
 
 
-<p align="center"> 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/enesozz?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/StarLordBerke4?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
 <h1 align="center"> 💻Enes Öksüz</h1>
 <p align="center">
 <a href="https://github.com/enesozz">
