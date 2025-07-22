@@ -90,26 +90,7 @@ const oksuz = {
 ![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif)
 ***Bölümüm Bilgisayar Mühendisliği olmasada ideallerimden asla vazgeçmeden çabalamaya devam edeceğim.:medal_military:***
 
-
-<h1 align="center"> 💻Enes Öksüz</h1>
-<p align="center">
-<a href="https://github.com/enesozz">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=enesozz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
- <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcangumusisik&layout=compact&langs_count=16&theme=react"/>
- </div>
-</p>
-
-<p align="center">
-<a href="https://github.com/enesozz">
-<a href="https://github.com/enesozz?tab=repositories">
-<img src="https://badges.pufler.dev/repos/enesozz?style=flat-square&color=7d8cbe&logo=github"></a> <br>
-<a href="https://github.com/enesozz?tab=followers"><img src="https://img.shields.io/github/followers/e-k-eyupoglu?style=social"></a> <br>
-<a href="https://github.com/enesozz"><img align=center src="https://github-readme-stats.vercel.app/api?username=enesozz&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe" width=500></a> <br>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=enesozz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
  
-
  <h2 align="center">Sosyal Medya Hesaplarım </h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-%C3%B6ks%C3%BCz-379773296/)
