@@ -22,7 +22,7 @@ const Ozturk = {
 
 - 💬 Bana sor **Her türlü soruyu sorabilirsiniz..**
 
-- 📫 Mail **berkemertozturk1997@gmail.com**
+- 📫 Mail **enesoksuzdm@gmail.com**
 
 <h3 align="center">Bana Ulaşmanın Diğer Yolları:</h3>
 
