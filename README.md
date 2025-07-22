@@ -36,7 +36,7 @@ const oksuz = {
 <a href=""><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="hackerrank" height="30" width="30"/></a>
 <a href=""><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="30"/></a>
 
-![footer](https://github.com/enesozz/enesozz/main/footer.jpg)
+![footer](https://github.com/enesozz/enesozz/blob/main/footer.jpg)
 
 ### ❤️Beni Takip Edebilirsiniz:
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devword)
