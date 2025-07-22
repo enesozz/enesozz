@@ -115,9 +115,6 @@ const oksuz = {
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=enesozz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
  
- [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=enesozz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 
  <h2 align="center">Sosyal Medya Hesaplarım </h2>
 
