@@ -10,7 +10,7 @@
 <h3 align="center">Developer and Designer</h3>
 
 ``` javascript
-const Ozturk = {
+const oksuz = {
   fullName: "Enes Öksüz",
   age: 20,
   place: "istanbul,Turkey",
